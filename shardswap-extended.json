@@ -1,0 +1,64 @@
+{
+  "name": "Shardswap Extended",
+  "timestamp": "2023-01-04T11:23:29.974Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://shardswap.app/logo.png",
+  "keywords": [
+    "shardswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "Shardswap Token",
+      "symbol": "SHARD",
+      "address": "0x7bE8884140a1b193877Ec133ea788D7741A2af77",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://shardswap.app/logo.png"
+    },
+    {
+      "name": "Wrapped Shardeum",
+      "symbol": "WSHM",
+      "address": "0x938D080a1fB06c32655F003E676E80250a9dE849",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"
+    },
+    {
+      "name": "Dai",
+      "symbol": "DAI",
+      "address": "0x224eEE08C67d91282193fCAdC282B1674D5943c9",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Binance Pegged BUSD",
+      "symbol": "BUSD",
+      "address": "0xFcc96D8f3A13ba46317F9f0994c16A94676625a9",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "USD Tether",
+      "symbol": "USDC",
+      "address": "0x505bDF40fBc57191067a53681248A43b540C1b20",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "address": "0x243B6E2fC62bb23b9bc795202AdF718EaaA16CFd",
+      "chainId": 8081,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+  ]
+}
